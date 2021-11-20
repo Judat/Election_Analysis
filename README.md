@@ -38,4 +38,13 @@ The election audit was done to get meaningful insight of the election data. The 
   ![winner candidate](https://user-images.githubusercontent.com/93050682/142705608-810d1634-39b6-4f47-bbb9-fd900b7702e9.PNG)
   
 ## Election Audit Summary
+This scipt is written very comprehensively keeping inmind that if needed it cover a larger amount of data, more candidates , more counties and increased number of votes casted. 
+All you need to do is make a few cahnges to run the code smoothly. 
+* 1: You might have to update the path to read the csv file which has the election data of 1 or more precincnts. 
+![Modification 1](https://user-images.githubusercontent.com/93050682/142706591-bedf3330-9fbe-4d4e-b341-e5fabe547f82.PNG)
+
+* 2: you need to cgange the index refernce as per the columns of the avaialable dat . in out case the candiate names wer in column 3 so we used the row[index] accordingly.
+![Modification 2](https://user-images.githubusercontent.com/93050682/142706713-fa009d26-1d30-4cd5-9b88-5f39aed5c40e.PNG)
+Hope this analsysis and code is useful for future election analysis.
+thank you
 
