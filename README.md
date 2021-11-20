@@ -18,20 +18,20 @@ The election audit was done to get meaningful insight of the election data. The 
  
  ## Election Audit Results 
  The analysis of the election results shows that :
-* Total number of votes casted
+* ### Total number of votes casted
   * A total of 369,711 number of votes were casted in the election ( folloiwng is the code used to calculate total votes)
   ![Vote Count](https://user-images.githubusercontent.com/93050682/142705526-7f2c350e-d0d2-4eeb-a234-1f1545a829c4.PNG)
-* Countywise Break down 
+* ### Countywise Break down 
   * Jefferson had a turnout of 38,855 votes which is 10.5%  of the total votes casted
   * Denver had a turn out  306,055 votes which is 82.8%  of the total votes casted
   * Arapahoe had a turnout 24,801 which is only 6.7% of the total cotes in the precinct 
-* County with largest turnout
+* ### County with largest turnout
   * Denver had the largest number of votes tournout with 82.8% of total votes.
-* Canditatewise Break down 
+* ### Canditatewise Break down 
   * Charles Casper Stockham: 23.0% (85,213)
   * Diana DeGette: 73.8% (272,892)
   * Raymon Anthony Doane: 3.1% (11,606)
-* Winning Candidate Summary
+* ### Winning Candidate Summary
   * Diana DeGette
   * Vote Count: 272,892
   * Percentage: 73.8% of total vote ( folloiwng is the code used to calculate winning candidate )
